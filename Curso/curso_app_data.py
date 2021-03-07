@@ -1,5 +1,0 @@
-__version__ = "1.0"
-__application__ = "Managment Things"
-__author__ = "Edson Luiz"
-__site__ = "www.projetosdesign.com.br"
-__licensa__ = "EULA"
