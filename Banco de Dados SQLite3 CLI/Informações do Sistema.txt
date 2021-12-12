@@ -1,0 +1,11 @@
+Menus do Sistema:
+
+Administração de Banco de Dados SQLite3 SIMPLES
+
+Menus
+1 - Criar Regsitro
+2 - Ver Registros
+3 - Deleta Registro
+4 - FIM
+
+O sistema está bem básico, para mostrar como se manipular a entrada, visualização e deleção de registros, numa tabela específica(usuarios) do DB SQLite 3 "dbUserGBD"
