@@ -1,0 +1,15 @@
+Manipulação de DataBase MySQL
+
+Os arquivos do diretório são para aprendizagem básica de manipulação de dados em tabelas de um DB MySQL.
+Você deve alterar as informações de conexão (Host, Table, User e Senha) para as que lhe atendam da melhor forma.
+
+Seguem arquivos para:
+
+1 - Criar Tabela
+2 - Inserir Registro
+3 - Consutlar Registros
+4 - Alterar Registro (somente o ítem Preço)
+5 - Excluir Registro
+
+
+Em caso de dúvida, entre em contato!
