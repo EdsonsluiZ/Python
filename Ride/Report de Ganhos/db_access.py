@@ -8,11 +8,11 @@ from mysql.connector import Error
 
 
 DB_CONFIG = {
-    "host": "dbride.mysql.dbaas.com.br",
+    "host": "HOST",
     "port": 3306,
-    "user": "dbride",
-    "password": "DbRide!@0126",
-    "database": "dbride",
+    "user": "USER",
+    "password": "PASSWORD",
+    "database": "DATABASE",
 }
 
 
