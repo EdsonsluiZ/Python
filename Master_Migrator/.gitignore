@@ -1,0 +1,23 @@
+# Local secrets and connection profiles
+connections.enc
+*.enc
+.env
+.env.*
+!.env.example
+config.local.*
+*.pem
+*.key
+*.p12
+*.pfx
+# Python and editor
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+*.log
+*.sql
+*.sqlite
+*.db
+.DS_Store
